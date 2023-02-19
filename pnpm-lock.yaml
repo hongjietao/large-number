@@ -1,10 +1,12 @@
 lockfileVersion: 5.3
 
 specifiers:
+  terser-webpack-plugin: ^5.3.6
   webpack: ^5.75.0
   webpack-cli: ^5.0.1
 
 devDependencies:
+  terser-webpack-plugin: 5.3.6_webpack@5.75.0
   webpack: 5.75.0_webpack-cli@5.0.1
   webpack-cli: 5.0.1_webpack@5.75.0
 
